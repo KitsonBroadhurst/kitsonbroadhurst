@@ -8,4 +8,4 @@ I'm a frontend developer at Bright Analytics - Living and working remotely 🌎 
 - 📝 - I like to write what I learn or my thoughts [on Medium][1]
 
 
-  [1]: https://medium.com/@kitson.broadhurst
+  [1]: https://kitson-broadhurst.medium.com/
