@@ -1,6 +1,6 @@
 ### Hey I'm Kitson 👋
 
-I'm a frontend developer at Bright Analytics - Living and working remotely 🌎 (I typically reside in London)
+I'm a frontend developer at Yoox Net-A-Porter - Living and working in London
 
 - 💙 - I'm a big fan of JavaScript/TypeScript and love to work with React
 - 🧐 - I want to improve my TDD skills
